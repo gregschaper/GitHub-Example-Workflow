@@ -26,7 +26,7 @@
 		* in the terminal execute the following command for all files you modified:
 			* git add <filename>
 		* Then execute in the terminal the following command:
-			* git commit -m "Put a commit message that is meaningful between the quotes.
+			* git commit -m "Put a commit message that is meaningful between the quotes"
 		* The execute in the terminal:
 			* git push
 		* The first time you do this you will need your GitHub account name and GitHub access token
