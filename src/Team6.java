@@ -11,7 +11,7 @@ public class Team6 extends Team
     public void createTeamMembers()
     {
         members.add(new TeamMember("Trevor Gray"));
-        members.add(new TeamMember("Janice Jones"));
+        members.add(new TeamMember("Jesse Russo"));
         members.add(new TeamMember("Harold Hero"));
         members.add(new TeamMember("Ali Mohammed"));
         // create a new member class for each team member
