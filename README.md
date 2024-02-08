@@ -1,4 +1,4 @@
-# GitHub TeamWork flow
+# GitHub Team Work Flow - CSCI 234
 * One member of the team fork the GitHubWorkflowExample repository from the GitHub gregschaper account.
 * The team member that forked the repository needs to add all the members of the team as contributors using their Moravian email address to invite them.
 * Each team member accepts the invite.
