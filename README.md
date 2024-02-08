@@ -13,7 +13,7 @@
 	* Each team member accepts the invite.
 * Each team member will clone the repository to their local machine.
 	* lookup the account of the team member that forked the repository
-	* choose The repository
+	* choose the repository
 	* select the Code button (should be green)
 	* copy the repositories GitHub URL
 	* on your local machine create a directory to put the cloned repository
@@ -21,10 +21,14 @@
 		* git clone <paste URL here>
 	* This should create a new git directory that will have the contents of the forked repository.
 
+* Once the repository has been cloned we want to make sure that only README.md and .java files are the only files added to the repository. To accomplihs this, create a new directory (I named mine DevelopmentDirectory) and copy and past the src folder and README.md to this new Directory. Open the project using Intellij from this new directory. Make neccesary changes to the files. Close Intellij. Copy the .java files you changed to the src folder of the cloned repository.
+
 * The team member that forked the repository will add code for the Team class and add their name as a team member. Then they will push the resulting Java code files back to the forked repository.
 	* to push the code:
 		* in the terminal execute the following command for all files you modified:
 			* git add <filename>
+		* Might need to use the following command:
+    			* git add -f src/<filename.java>
 		* Then execute in the terminal the following command:
 			* git commit -m "Put a commit message that is meaningful between the quotes"
 		* The execute in the terminal:
