@@ -11,6 +11,8 @@ public class Team4 extends Team{
     {
         members.add(new TeamMember("Saul Sanchez"));
         members.add(new TeamMember("Nathan Hajel"));
+        members.add(new TeamMember("Austin Leibensperger"));
+        
     }
     
 }
