@@ -17,10 +17,6 @@ public class TeamOne extends Team
     public void createTeamMembers()
     {
         members.add(new TeamMember("Megan Curtis"));
-        members.add(new TeamMember("Janice Jones"));
-        members.add(new TeamMember("Harold Hero"));
-        members.add(new TeamMember("Ali Mohammed"));
-        // create a new member class for each team member
-        // and add it to the team members list
+        members.add(new TeamMember("JP Appel"));
     }
 }
