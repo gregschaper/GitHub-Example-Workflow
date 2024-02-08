@@ -18,7 +18,7 @@ public class TeamCool extends Team
     {
         members.add(new TeamMember("Yousuf Kanan"));
         members.add(new TeamMember("Jack Drabic"));
-        members.add(new TeamMember("Harold Hero"));
+        members.add(new TeamMember("Louis Spann"));
         members.add(new TeamMember("Ali Mohammed"));
         // create a new member class for each team member
         // and add it to the team members list
