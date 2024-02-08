@@ -31,12 +31,16 @@ public class Course
 
         teams.add(new TeamNice("TeamNice"));
 
+        teams.add(new Team4("Team4"));
+
+
         teams.add(new Team6("Team6"));
 
 
         teams.add(new TeamNice("TeamNice")
         teams.add(new TeamOne("TeamOne"));
         teams.add(new Team7("Team 7"));
+
 
         // create each new team and add to team list;
         // Repository owner will do this.
