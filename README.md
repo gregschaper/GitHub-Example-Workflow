@@ -12,5 +12,5 @@
 * Each team member will then pull the modified code from the repository and run the Java program to make sure it is working correctly - prints the team name (number) and the names of the members of the team.
 * The team member that forked the repository will then issue a pull request to merge the team's code with the upstream repository in the gregschaper account.
 * The instructor will accept the merge request for each team.
-*The instructor will pull the current version of the program from the repository and run the resulting Java code. All team numbers and members should get displayed to the monitor.
+* The instructor will pull the current version of the program from the repository and run the resulting Java code. All team numbers and members should get displayed to the monitor.
 
