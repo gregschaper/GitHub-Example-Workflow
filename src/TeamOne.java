@@ -19,5 +19,6 @@ public class TeamOne extends Team
         members.add(new TeamMember("Megan Curtis"));
         members.add(new TeamMember("JP Appel"));
         members.add(new TeamMember("Zachery Bingaman"));
+        members.add(new TeamMember("Terrell Nelson"));
     }
 }
