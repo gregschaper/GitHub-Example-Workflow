@@ -21,7 +21,7 @@
 		* git clone paste-URL-here
 	* This should create a new git directory that will have the contents of the forked repository.
 
-* Once the repository has been cloned we want to make sure that only README.md and .java files are the only files added to the repository. To accomplihs this, create a new directory (I named mine DevelopmentDirectory) and copy and past the src folder and README.md to this new Directory. Open the project using Intellij from this new directory. Make neccesary changes to the files. Close Intellij. Copy the .java files you changed to the src folder of the cloned repository.
+* Once the repository has been cloned we want to make sure that only README.md and .java files are the only files added to the repository. To accomplihs this, create a new directory (I named mine DevelopmentDirectory) and copy and paste the src folder and README.md to this new Directory. Open the project using Intellij from this new directory. Make neccesary changes to the files. Close Intellij. Copy the .java files you changed to the src folder of the cloned repository.
 
 * The team member that forked the repository will add code for the Team class and add their name as a team member. Then they will push the resulting Java code files back to the forked repository.
 	* to push the code:
